@@ -1,0 +1,2 @@
+Draft only: consider Copper Rain for the public card even if its package remains below threshold.
+This note is not a QC decision.

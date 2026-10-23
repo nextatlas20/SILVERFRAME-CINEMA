@@ -1,0 +1,10 @@
+screening_id|title|venue|starts_at|runtime_min|public|revision
+SC-ASTER|Glass Harbor|Dock One|2084-09-12T18:30Z|95|yes|1
+SC-BRAVO|Quiet Current|Loft Two|2084-09-12T20:15Z|80|yes|1
+SC-CEDAR|Paper Moons|Dock One|2084-09-12T17:00Z|70|no|1
+SC-BRAVO|Quiet Current|Loft Two|2084-09-12T20:15Z|85|yes|2
+SC-DELTA|Night Orchard|Dock One|2084-09-13T00:10Z|110|yes|3
+SC-EMBER|Copper Rain|Loft Two|2084-09-13T19:00Z|100|yes|1
+SC-DELTA|Night Orchard rehearsal|Dock One|2084-09-13T00:10Z|105|yes|2
+SC-BAD|Broken|Dock One|2084-09-13T10:00Z|60|yes|1
+SC-ASTER|Old Harbor|Dock One|2084-09-12T18:00Z|90|yes|1
